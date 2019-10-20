@@ -11,11 +11,11 @@ const People = [
     "Benjamin Franklin",
     "Justin Bieber",
     "Donald Trump",
-    "Brack Obama",
+    "Barack Obama",
     "John F Kennedy",
     "George Washington",
     "Abraham Lincon",
-    "Williasm 'Boss' Tweed",
+    "Williams 'Boss' Tweed",
     "Julius Caesar",
     "Alexander the Great",
     "Plato",
@@ -33,7 +33,9 @@ const People = [
     "Mohandas Gandhi",
     "Moses",
     "Jesus",
-    "Ted Kaczynski"
+    "Ted Kaczynski",
+    "Kanye West",
+    "Hermann Cain"
 ];
 
 const Events = [
@@ -48,7 +50,7 @@ const Events = [
     "World War III",
     "Tienenmen Square",
     "Thermopylae",
-    "Marathon",
+    "Battle of Marathon",
     "Jesus' Crucification",
     "Great Flood",
     "Biblical Exodus",
@@ -60,20 +62,22 @@ const Events = [
     "Titanic",
     "Wright Brothers' 1st Flight",
     "Moon Landing",
-    "Building of the Egyption Pyramids"
+    "Building of the Egyption Pyramids",
+    "Quizbowl Nationals",
+    "The Olympics",
 ];
 const Twists = [
     "It was all a dream",
     "...but a lizard person",
     "Soldiers are Hamsters",
-    "Guns shoot bubbleguns",
+    "Guns shoot bubblegum",
     "Its the year 2052 AD",
     "Its 7000 BCE",
     "Its 100 years earlier",
     "Its 100 years later",
     "Everyone's a 4 year old",
     "Everyone's a woman",
-    "Everyone has dementia",
+    "with dementia",
     "Everyone's super old",
     "...but super sexy",
     "...but super dumb",
@@ -82,8 +86,10 @@ const Twists = [
     "...but a really nice guy",
     "with pillow fights",
     "everyone's in high school",
-    "with alienes",
-    "...but is in the illuminati"
+    "with aliens",
+    "...but is in the illuminati",
+    "with Benjamin Button syndrome",
+    "with amnesia"
 ];
 
 let rng : any = undefined; 
